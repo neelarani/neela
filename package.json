@@ -1,0 +1,20 @@
+{
+  "name": "neela",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "neela",
+  "license": "ISC",
+  "description": "This is my test npm package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neelarani/neela"
+  },
+  "bugs": {
+    "url": "https://github.com/neelarani/neela/issues"
+  },
+  "homepage": "https://github.com/neelarani/neela#readme"
+}
