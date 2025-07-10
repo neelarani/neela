@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/neelarani/neela/issues"
   },
-  "homepage": "https://github.com/neelarani/neela#readme"
+  "homepage": "https://github.com/neelarani/neela#readme",
+  "type": "module"
 }
